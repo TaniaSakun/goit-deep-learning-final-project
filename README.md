@@ -49,8 +49,8 @@ Learning rate, dropout, and batch size were manually tuned based on experimentat
 
 The project is evaluated using QWK, with the following results:
 
-- **Training Data Results: High accuracy on training data suggests the model captures meaningful patterns within this dataset.
-- **Test Data Results: Lower QWK scores on test data suggest potential overfitting or inadequate generalization to new data.
+- **Training Data Results:** High accuracy on training data suggests the model captures meaningful patterns within this dataset.
+- **Test Data Results:** Lower QWK scores on test data suggest potential overfitting or inadequate generalization to new data.
 - **Result Analysis:**
 
   - **Text Features:** While features like sentiment and health status diversify the data, their impact on overall accuracy was limited.
